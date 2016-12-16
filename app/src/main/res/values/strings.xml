@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NpcFaker</string>
+    <string name="title_personagendomestre_list">PersonagensDoMestre</string>
+    <string name="title_personagendomestre_detail">PersonagenDoMestre Detail</string>
+</resources>
